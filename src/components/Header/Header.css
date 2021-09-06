@@ -1,0 +1,23 @@
+.container-header {
+  background-color: #6e6f77;
+  padding: 30px;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.container-size {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.logo-header {
+  width: 150px;
+  height: 100px;
+  border-radius: 20px;
+}

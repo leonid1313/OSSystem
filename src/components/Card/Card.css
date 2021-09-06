@@ -1,0 +1,41 @@
+.container-card {
+  display: flex;
+  margin: 0 5px 30px;
+  border-radius: 5px;
+  flex-direction: column;
+  width: 30%;
+  height: 550px;
+  position: relative;
+}
+
+.cardBody {
+  padding: 10px;
+}
+
+.title {
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.container-image {
+  margin: 0 auto;
+  width: 300px;
+  height: 300px;
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+}
+
+.description-text {
+  font-size: 10px;
+}
+
+#delete-card {
+  position: absolute;
+  bottom: 0;
+  margin-left: 30%;
+  margin-top: 20px;
+}
