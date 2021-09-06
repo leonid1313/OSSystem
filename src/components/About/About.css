@@ -1,0 +1,18 @@
+.link-about {
+  color: black;
+  text-decoration: none;
+}
+
+.container-form {
+  width: 80%;
+}
+
+#button-add {
+  display: block;
+  margin: 30px auto;
+}
+
+.title-add {
+  text-align: center;
+  margin-bottom: 30px;
+}

@@ -16,7 +16,6 @@ const Pagination = ({ postsPerPage, totalPosts, paginate }) => {
           <li key={number} className='page-item'>
             <Button
               variant="dark"
-              className="button-pagination" 
               onClick={() => paginate(number)}
             >
               {number}

@@ -8,15 +8,16 @@ function Card ({
   title,
   description,
   price,
-  item,
   id,
-  items,
-  setAllCards
+  setAllCards,
+  allCards,
+  setData
 }) {
 
   const handleRemoveItem = () => {
-    setAllCards(items.filter(item => item.id !== id));
-    // setInitialValue(updateLocalStorage)
+    let result = allCards.filter(item => item.id !== id)
+    setAllCards(result);
+    setData(result)
   }
 
     return (
