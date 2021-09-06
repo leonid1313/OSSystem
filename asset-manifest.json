@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/OSSystem/static/css/main.731326d6.chunk.css",
+    "main.js": "/OSSystem/static/js/main.fd4c23fe.chunk.js",
+    "main.js.map": "/OSSystem/static/js/main.fd4c23fe.chunk.js.map",
+    "runtime-main.js": "/OSSystem/static/js/runtime-main.72255db9.js",
+    "runtime-main.js.map": "/OSSystem/static/js/runtime-main.72255db9.js.map",
+    "static/css/2.818011ed.chunk.css": "/OSSystem/static/css/2.818011ed.chunk.css",
+    "static/js/2.eb09d1a0.chunk.js": "/OSSystem/static/js/2.eb09d1a0.chunk.js",
+    "static/js/2.eb09d1a0.chunk.js.map": "/OSSystem/static/js/2.eb09d1a0.chunk.js.map",
+    "index.html": "/OSSystem/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/OSSystem/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.731326d6.chunk.css.map": "/OSSystem/static/css/main.731326d6.chunk.css.map",
+    "static/js/2.eb09d1a0.chunk.js.LICENSE.txt": "/OSSystem/static/js/2.eb09d1a0.chunk.js.LICENSE.txt",
+    "static/media/unnamed.b5b782de.jpeg": "/OSSystem/static/media/unnamed.b5b782de.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72255db9.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.eb09d1a0.chunk.js",
+    "static/css/main.731326d6.chunk.css",
+    "static/js/main.fd4c23fe.chunk.js"
+  ]
+}
